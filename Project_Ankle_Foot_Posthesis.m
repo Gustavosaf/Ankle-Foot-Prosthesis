@@ -1,5 +1,3 @@
-clear all; close all; clc;
-
 % Importing all OpenSim libraries.
 import org.opensim.modeling.* 
 
