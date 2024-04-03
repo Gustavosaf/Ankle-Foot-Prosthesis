@@ -3,6 +3,6 @@ This project consists of developing a transtibial prosthesis with interaction on
 
 Project Components:
 
-TransTibial Prosthesis: The prosthesis is designed to provide support and mobility for individuals with transtibial amputations. It incorporates a mobile ankle.
+Transtibial Prosthesis: The prosthetic footis has design based on venture® and is designed to provide support and mobility for individuals with transtibial amputations. It incorporates a mobile ankle.
 
 Mobile Platform: The mobile platform is designed to simulate walking conditions and interaction with the surface during prosthesis use. The platform has one degree of freedom (GDL) and moves along the rotational z-axis.
